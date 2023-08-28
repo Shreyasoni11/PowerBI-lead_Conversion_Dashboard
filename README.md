@@ -1,4 +1,5 @@
 # PowerBI- Lead Conversion Dashboard
+![Dashboard](https://github.com/Shreyasoni11/PowerBI-lead_Conversion_Dashboard/assets/136992653/7385dead-b5f6-4bae-9319-be8043fdbd0b)
 
 ## Insights
 
